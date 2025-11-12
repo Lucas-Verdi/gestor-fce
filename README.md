@@ -16,4 +16,4 @@ Gestor-FCE é um software de **gestão de fluxo de caixa empresarial** que utili
 - **Backend:** Python
 - **Frontend:** Angular
 - **Containerização:** Docker
-- **Inteligência Artificial:** Frameworks Python para Machine Learning
+- **Inteligência Artificial:** Frameworks Python para Machine Learning.
