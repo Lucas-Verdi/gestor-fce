@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": false
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "potential-engine-66pg6v4v65vhq6v-5432.app.github.dev",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "gestor_fce_db",
+            "database": "gestor_fce_db",
+            "username": "admin"
+        }
+    ]
+}
